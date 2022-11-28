@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { PythOracle } from './PythOracle.js';
 
-export { Add };
+export { PythOracle as PythOracle };
